@@ -1,0 +1,5 @@
+{
+  "name": "SJoK Studio v1.0",
+  "description": "专业的本地音乐分析工具，快速检测音频的BPM与调式。",
+  "requestFramePermissions": []
+}
